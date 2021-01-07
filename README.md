@@ -8,3 +8,4 @@ Pushing them here in case I nuke my installation. <br>
 - slstatus
 - slock
 - dmenu
+- surf
